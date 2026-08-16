@@ -4,7 +4,7 @@ A collection of data structure exercises, organized by study source/context.
 
 ## 📁 Structure
 
-\`\`\`
+```
 Learn/
 ├── CursoEmVideo/
 │   ├── desafio/
@@ -14,7 +14,7 @@ Learn/
     └── Exercises/
         ├── Class_01/
         └── Class_02/
-\`\`\`
+```
 
 - **CursoEmVideo** — exercises from the CursoEmVideo course (challenges + standalone exercises)
 - **HashtagTreinamentos** — exercises from Hashtag Treinamentos
@@ -24,4 +24,4 @@ Learn/
 Python
 
 ## 🎯 Goal
-Reinforce data structure concepts (lists, stacks, queues, recursion, etc.) through practice, keeping a history of progress by study source.# data-structures-practice
+Reinforce data structure concepts (lists, stacks, queues, recursion, etc.) through practice, keeping a history of progress by study source.
